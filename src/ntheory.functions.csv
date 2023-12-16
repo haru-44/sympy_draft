@@ -1,0 +1,9 @@
+file,name
+factor_,totient
+factor_,reduce_totient
+factor_,divisor_sigma
+factor_,udivisor_sigma
+factor_,primenu
+factor_,primeomega
+generate,primepi
+residue_ntheory,mobius
